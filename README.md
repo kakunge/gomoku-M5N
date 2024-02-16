@@ -6,3 +6,7 @@
 
 ## OnlineAI.py
 - The game is automatically played using a heuristic algorithm
+
+## Example
+
+![1.png](img/1.png)
